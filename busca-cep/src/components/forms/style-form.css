@@ -1,0 +1,26 @@
+section {
+  width: 60%;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.form-busca {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+
+.input-group {
+  gap: 2.1rem !important;
+}
+
+.form-control {
+  padding: 0.8rem !important;
+  font-size: 1.6rem !important;
+}
+
+.btn-lg {
+  font-size: 1.6rem !important;
+}
